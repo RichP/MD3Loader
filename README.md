@@ -2,4 +2,7 @@
 
 Loads and Renders an animated Quake 3 MD3 Format model hierarchy using Apple Metal
 
-![simulator-animation](gifs/renderer.gif)
+![simulator-animation](gifs/simulator.gif)
+
+![desktop-animation](gifs/desktop.gif)
+
